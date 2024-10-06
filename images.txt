@@ -1,1 +1,6 @@
 mashirozx/rsshub
+qdtoday/qd
+gitea/gitea
+taksss/php-epg
+whyour/qinglong
+xavierniu/cloudreve
