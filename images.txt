@@ -1,5 +1,1 @@
-docker.dzhxkj.top/linuxserver/qbittorrent
-docker.dzhxkj.top/jxxghp/moviepilot
-docker.dzhxkj.top/ionewu/owjdxb
-docker.dzhxkj.top/amilys/embyserver
-docker.dzhxkj.top/allanpk716/chinesesubfinder
+linuxserver/qbittorrent:4.6.2
