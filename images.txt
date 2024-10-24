@@ -1,1 +1,1 @@
-linuxserver/qbittorrent:4.6.2
+19970688/nastool-bt
