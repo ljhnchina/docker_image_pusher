@@ -1,1 +1,1 @@
-ChineseSubFinder/ChineseSubFinder
+razeencheng/wxapiproxy
