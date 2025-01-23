@@ -1,1 +1,1 @@
-razeencheng/wxapiproxy
+linuxserver/transmission
