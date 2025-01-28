@@ -1,1 +1,1 @@
-oldiy/nps-server
+oldiy/nps-client
