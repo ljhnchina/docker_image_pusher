@@ -1,1 +1,3 @@
-crpi-pqqbvdf8c8dv7tyr.cn-shanghai.personal.cr.aliyuncs.com/nas-mp/owjdxb:latest
+crpi-pqqbvdf8c8dv7tyr.cn-shanghai.personal.cr.aliyuncs.com/nas-mp/lyricapi:latest
+crpi-pqqbvdf8c8dv7tyr.cn-shanghai.personal.cr.aliyuncs.com/nas-mp/music_tag_web:latest
+crpi-pqqbvdf8c8dv7tyr.cn-shanghai.personal.cr.aliyuncs.com/nas-mp/navidrome:latest
