@@ -1,8 +1,1 @@
-crpi-pqqbvdf8c8dv7tyr.cn-shanghai.personal.cr.aliyuncs.com/nas-mp/easynode:latest
-crpi-pqqbvdf8c8dv7tyr.cn-shanghai.personal.cr.aliyuncs.com/nas-mp/easynode:latest
-crpi-pqqbvdf8c8dv7tyr.cn-shanghai.personal.cr.aliyuncs.com/nas-mp/bililive-go:latest
-crpi-pqqbvdf8c8dv7tyr.cn-shanghai.personal.cr.aliyuncs.com/nas-mp/emby_unlockd:latest
-crpi-pqqbvdf8c8dv7tyr.cn-shanghai.personal.cr.aliyuncs.com/nas-mp/cloud-media-sync:latest
-crpi-pqqbvdf8c8dv7tyr.cn-shanghai.personal.cr.aliyuncs.com/nas-mp/clash-and-dashboard:latest
-crpi-pqqbvdf8c8dv7tyr.cn-shanghai.personal.cr.aliyuncs.com/nas-mp/allinone_format:latest
-crpi-pqqbvdf8c8dv7tyr.cn-shanghai.personal.cr.aliyuncs.com/nas-mp/watchtower
+crpi-pqqbvdf8c8dv7tyr.cn-shanghai.personal.cr.aliyuncs.com/nas-mp/frp-panel
