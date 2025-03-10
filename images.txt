@@ -1,1 +1,1 @@
-crpi-pqqbvdf8c8dv7tyr.cn-shanghai.personal.cr.aliyuncs.com/nas-mp/frp-panel
+snowdreamtech/frpc:latest
