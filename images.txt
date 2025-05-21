@@ -1,1 +1,1 @@
-dreamacro/clash
+clash-lan/clash
