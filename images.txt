@@ -1,1 +1,1 @@
-raywangqvq/bili_tool_web
+ghcr.io/raywangqvq/bili_tool_web
