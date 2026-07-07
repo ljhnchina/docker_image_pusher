@@ -1,1 +1,1 @@
-ddsderek/wxchat
+javinizer/javinizer-go
