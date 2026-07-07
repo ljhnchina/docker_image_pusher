@@ -1,1 +1,1 @@
-javinizer/javinizer-go
+ghcr.io/javinizer/javinizer-go
