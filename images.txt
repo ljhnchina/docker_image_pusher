@@ -1,2 +1,1 @@
-ghcr.io/javinizer/javinizer-go
- 
+ghcr.io/tashfeenahmed/freellmapi
