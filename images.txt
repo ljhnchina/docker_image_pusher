@@ -1,1 +1,1 @@
-ulsklyc/yuvomi
+ghcr.io/ulsklyc/yuvomi
