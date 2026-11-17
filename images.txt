@@ -1,1 +1,1 @@
-lizongying/musicdown-web
+lizongying/musicdown-web:latest
